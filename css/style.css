@@ -204,6 +204,15 @@ header.scrolled .logo {
   filter: brightness(97%);
 }
 
+/* Footer Logo */
+.logo-design{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
 /* hamburger */
 .hamburger{
   display: none;
